@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d52b77f4-bba7-4a71-88d6-52d56a3cd17a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="22qpvLHChufi0S1Wlfo88RTCnW0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="behavior.chain" />
+      <recent name="abstractFactory" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="structurePattern.facade" />
+      <recent name="structurePattern.adapter.composite" />
+      <recent name="structurePattern.adapter.extendss" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="structurePattern.decorator.Client" />
+      <module name="design-pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="structurePattern.decorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d52b77f4-bba7-4a71-88d6-52d56a3cd17a" name="Default Changelist" comment="" />
+      <created>1640575200220</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640575200220</updated>
+      <workItem from="1640575201778" duration="29146000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser" timestamp="1640765233507">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="236" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640765233507" />
+    <state x="2685" y="236" key="#com.intellij.ide.util.MemberChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1640673312148" />
+    <state x="2685" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1640655510743">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2685" y="443" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1640655510743" />
+    <state x="2657" y="137" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1640592611021">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2657" y="137" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1640592611021" />
+    <state width="1877" height="399" key="GridCell.Tab.0.bottom" timestamp="1640745072941">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640745072941" />
+    <state width="1877" height="399" key="GridCell.Tab.0.center" timestamp="1640745072940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640745072940" />
+    <state width="1877" height="399" key="GridCell.Tab.0.left" timestamp="1640745072940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640745072940" />
+    <state width="1877" height="399" key="GridCell.Tab.0.right" timestamp="1640745072940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="399" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1640745072940" />
+    <state x="2582" y="254" width="596" height="532" key="find.popup" timestamp="1640663705368">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2582" y="254" width="596" height="532" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1640663705368" />
+  </component>
+</project>
